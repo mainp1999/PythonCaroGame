@@ -30,7 +30,7 @@ To start the project, run the following script:
 - 3- **Adjustable AI Difficulty**: Select difficulty levels (Easy, Medium, Hard).
 - 4- **Dynamic Themes**: Switch between light and dark board themes.
 
-![Alt text](PythonCaroGame/Image/GameCaro.png)
+![Alt text](Image\GameCaro.png)
 
 ## Solution Principle
 
