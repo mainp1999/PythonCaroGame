@@ -19,10 +19,12 @@ Through this project, foundational game development techniques and advanced algo
 
 ## Installation  
 
-To install the necessary dependencies, run the following command: 
+To install the necessary dependencies, run the following command:  
+`pip install pygame pygame-menu`
 
 ## Usage
-To start the project, run the following script:
+To start the project, run the following script:  
+`python main.py`
 
 ## Features
 - 1- **Customizable Game Board**: Choose board sizes (3x3, 10x10, 15x15).
